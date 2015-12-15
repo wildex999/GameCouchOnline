@@ -1,0 +1,6 @@
+Debug/
+GCO_Main/Release/GCO_Main.tlog/link.write.1.tlog
+GCO_Main/Release/
+*.dll
+Release/
+ipch/
